@@ -4,4 +4,4 @@ I'm currently focused on **data analysis**, building projects that strengthen my
 
 Beyond coding, i'm particularly interested in **mathematics**, **physics** and **complex systems**. Those interests shape the way I approach every project.
 
-[Série de ramanujan] (9e155dadf6669b122f78746f2e553bce.jpg)
+![Série de ramanujan](9e155dadf6669b122f78746f2e553bce.jpg)
